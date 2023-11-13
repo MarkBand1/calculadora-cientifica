@@ -1,0 +1,22 @@
+{
+  "name": "calculadora-cientifica",
+  "version": "1.0.0",
+  "description": "javascript calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBand1/calculadora-cientifica.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "MarkBand1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBand1/calculadora-cientifica/issues"
+  },
+  "homepage": "https://github.com/MarkBand1/calculadora-cientifica#readme"
+}

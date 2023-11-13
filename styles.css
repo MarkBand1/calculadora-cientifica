@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+input {
+    width: 45%;
+    padding: 10px;
+    margin: 5px 0;
+    align-items: center;
+    color: white;
+}
+.container{
+    align-items: center;
+    margin: 7.5%;
+    padding: 10px;
+    border: 1.2px;
+}
+.btn-panel{
+    
+    padding:5px;
+    margin: 5px;
+}
+.btn{
+    color: white;
+    width: 100px;
+    height: 100px
+}
+.btn-panel :hover{
+    opacity: 0.5;
+    color: white;
+}
